@@ -57,7 +57,7 @@ const Skills = () => {
   const codingProfiles = [
     {
       platform: 'Codeforces',
-      rank: 'Specialist',
+      rank: 'Pupil',
       badge: 'bg-tech-blue',
       url: '#'
     },
@@ -65,6 +65,12 @@ const Skills = () => {
       platform: 'CodeChef',
       rank: '3-Star',
       badge: 'bg-tech-purple',
+      url: '#'
+    },
+    {
+      platform: 'LeetCode',
+      rank: 'Knight',
+      badge: 'bg-tech-green',
       url: '#'
     }
   ];
@@ -122,7 +128,7 @@ const Skills = () => {
         {/* Coding Profiles */}
         <div className="mb-16">
           <h3 className="text-2xl font-bold text-center mb-8">Coding Profiles</h3>
-          <div className="grid sm:grid-cols-2 gap-6 max-w-2xl mx-auto">
+          <div className="grid sm:grid-cols-3 gap-6 max-w-4xl mx-auto">
             {codingProfiles.map((profile, index) => (
               <Card key={index} className="glass-effect border-border hover:border-opacity-50 transition-all duration-300 group cursor-pointer">
                 <CardContent className="p-6 text-center">

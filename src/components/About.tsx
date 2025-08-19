@@ -21,7 +21,7 @@ const About = () => {
             <div className="space-y-4">
               <h3 className="text-2xl font-bold text-foreground">Prashant Kumar Singh</h3>
               <p className="text-lg text-foreground/80 leading-relaxed">
-                I'm a 3rd year B.Tech student at the National Institute of Technology Agartala with a CGPA of 9.5+, 
+                I'm a 3rd year B.Tech student at the National Institute of Technology Agartala with a CGPA of 9.4++, 
                 driven by a passion for using technology to simplify everyday life. As a founder of a startup 
                 in networking import-export trade, I've gained valuable experience in business strategy and product development.
               </p>
@@ -78,7 +78,7 @@ const About = () => {
                       <div>
                         <h4 className="font-medium text-foreground">B.Tech - Computer Science</h4>
                         <p className="text-foreground/60">National Institute of Technology Agartala</p>
-                        <p className="text-sm text-tech-green font-medium">CGPA: 9.5+</p>
+                        <p className="text-sm text-tech-green font-medium">CGPA: 9.4++</p>
                         <p className="text-sm text-foreground/50">Expected Graduation: 2027</p>
                       </div>
                       
