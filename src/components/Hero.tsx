@@ -1,7 +1,7 @@
 
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
-import { ArrowDown, Github, Linkedin, Mail, Twitter } from 'lucide-react';
+import { ArrowDown, Linkedin, Mail, Twitter } from 'lucide-react';
 
 const Hero = () => {
   const [currentRole, setCurrentRole] = useState(0);
@@ -83,12 +83,6 @@ const Hero = () => {
 
             {/* Social Links */}
             <div className="flex space-x-6">
-              <a 
-                href="#" 
-                className="p-3 rounded-full glass-effect hover:bg-tech-blue/20 transition-all duration-300 group"
-              >
-                <Github className="w-6 h-6 group-hover:text-tech-blue transition-colors" />
-              </a>
               <a 
                 href="https://linkedin.com/in/prashant-singh-8a059a28a" 
                 className="p-3 rounded-full glass-effect hover:bg-tech-blue/20 transition-all duration-300 group"
