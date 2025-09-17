@@ -18,3 +18,4 @@
 [2025-09-17 03:44:12] The best way to predict the future is to implement it. - Alan Kay
 [2025-09-17 06:41:06] Make it work, make it right, make it fast. - Kent Beck
 [2025-09-17 10:39:04] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-17 16:45:57] It's not a bug – it's an undocumented feature. - Anonymous
