@@ -246,3 +246,4 @@
 [2025-10-28 13:00:00] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-10-28 14:51:43] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-10-28 22:27:15] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-28 22:40:35] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
