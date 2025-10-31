@@ -258,3 +258,4 @@
 [2025-10-30 20:47:56] Code never lies, comments sometimes do. - Ron Jeffries
 [2025-10-30 22:26:36] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2025-10-31 08:55:52] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-31 18:42:08] It's not a bug – it's an undocumented feature. - Anonymous
