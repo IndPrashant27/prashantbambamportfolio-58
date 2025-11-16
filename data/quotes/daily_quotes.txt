@@ -352,3 +352,4 @@
 [2025-11-16 06:40:51] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-11-16 08:53:23] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-11-16 10:39:07] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-16 12:54:22] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
