@@ -410,3 +410,4 @@
 [2025-11-27 10:43:55] The best way to predict the future is to implement it. - Alan Kay
 [2025-11-27 18:40:31] The best way to predict the future is to implement it. - Alan Kay
 [2025-11-27 20:46:50] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-27 22:40:07] Make it work, make it right, make it fast. - Kent Beck
