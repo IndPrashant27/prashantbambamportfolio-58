@@ -412,3 +412,4 @@
 [2025-11-27 20:46:50] It's not a bug – it's an undocumented feature. - Anonymous
 [2025-11-27 22:40:07] Make it work, make it right, make it fast. - Kent Beck
 [2025-11-28 02:13:23] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-28 02:43:17] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
