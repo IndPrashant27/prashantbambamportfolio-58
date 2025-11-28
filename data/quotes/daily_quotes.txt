@@ -415,3 +415,4 @@
 [2025-11-28 02:43:17] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-11-28 03:54:32] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2025-11-28 06:45:58] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-28 14:49:09] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
