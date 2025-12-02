@@ -438,3 +438,4 @@
 [2025-12-01 18:49:36] The best way to predict the future is to implement it. - Alan Kay
 [2025-12-01 20:45:53] It's not a bug – it's an undocumented feature. - Anonymous
 [2025-12-01 22:41:17] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-02 02:18:40] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
