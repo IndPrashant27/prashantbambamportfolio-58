@@ -444,3 +444,4 @@
 [2025-12-02 18:48:05] Make it work, make it right, make it fast. - Kent Beck
 [2025-12-02 20:50:50] It's not a bug – it's an undocumented feature. - Anonymous
 [2025-12-02 22:25:32] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-03 02:18:37] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
