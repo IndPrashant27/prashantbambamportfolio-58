@@ -543,3 +543,4 @@
 [2025-12-20 20:46:56] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-12-20 22:27:12] The only constant in the technology industry is change. - Marc Benioff
 [2025-12-21 14:47:21] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-21 22:28:26] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
