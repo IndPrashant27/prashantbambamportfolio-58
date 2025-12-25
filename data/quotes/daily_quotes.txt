@@ -558,3 +558,4 @@
 [2025-12-24 20:49:37] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-12-24 22:29:34] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2025-12-24 22:42:38] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-25 02:24:30] Good code is its own best documentation. - Steve McConnell
