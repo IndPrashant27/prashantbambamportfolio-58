@@ -560,3 +560,4 @@
 [2025-12-24 22:42:38] It's not a bug – it's an undocumented feature. - Anonymous
 [2025-12-25 02:24:30] Good code is its own best documentation. - Steve McConnell
 [2025-12-25 02:57:28] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-25 04:10:55] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
