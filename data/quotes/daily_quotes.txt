@@ -857,3 +857,4 @@
 [2026-02-22 22:50:44] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2026-02-23 05:13:29] Code is like humor. When you have to explain it, it's bad. - Cory House
 [2026-02-23 07:19:37] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-23 09:37:25] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
