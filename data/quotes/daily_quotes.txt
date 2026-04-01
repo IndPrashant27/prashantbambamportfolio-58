@@ -1035,3 +1035,4 @@
 [2026-04-01 05:34:02] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-04-01 07:51:41] Make it work, make it right, make it fast. - Kent Beck
 [2026-04-01 14:05:34] Good code is its own best documentation. - Steve McConnell
+[2026-04-01 23:04:04] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
