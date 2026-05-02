@@ -1191,3 +1191,4 @@
 [2026-05-02 11:11:59] The best way to predict the future is to implement it. - Alan Kay
 [2026-05-02 17:24:05] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-05-02 19:15:38] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-05-02 22:55:06] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
