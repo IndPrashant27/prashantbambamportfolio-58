@@ -1195,3 +1195,4 @@
 [2026-05-03 04:10:41] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-05-03 08:14:34] Good code is its own best documentation. - Steve McConnell
 [2026-05-03 09:55:17] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-05-03 15:26:59] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
