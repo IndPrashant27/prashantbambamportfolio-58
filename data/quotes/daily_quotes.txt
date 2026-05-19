@@ -1271,3 +1271,4 @@
 [2026-05-18 14:03:00] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-05-18 15:56:27] Make it work, make it right, make it fast. - Kent Beck
 [2026-05-19 05:05:53] The best way to predict the future is to implement it. - Alan Kay
+[2026-05-19 06:59:25] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
