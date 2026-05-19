@@ -1273,3 +1273,4 @@
 [2026-05-19 05:05:53] The best way to predict the future is to implement it. - Alan Kay
 [2026-05-19 06:59:25] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-05-19 10:03:52] First, solve the problem. Then, write the code. - John Johnson
+[2026-05-19 11:45:42] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
