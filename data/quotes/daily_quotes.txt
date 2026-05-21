@@ -1281,3 +1281,4 @@
 [2026-05-20 11:35:02] Make it work, make it right, make it fast. - Kent Beck
 [2026-05-20 20:28:16] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2026-05-21 13:41:01] Good code is its own best documentation. - Steve McConnell
+[2026-05-21 15:51:17] The best error message is the one that never shows up. - Thomas Fuchs
