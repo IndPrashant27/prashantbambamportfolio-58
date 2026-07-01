@@ -1505,3 +1505,4 @@
 [2026-07-01 04:52:59] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-07-01 05:44:43] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2026-07-01 07:53:19] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-07-01 11:44:44] Make it work, make it right, make it fast. - Kent Beck
