@@ -1844,3 +1844,4 @@
 [2026-09-05 20:17:02] Make it work, make it right, make it fast. - Kent Beck
 [2026-09-05 22:15:22] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-09-05 23:46:16] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-09-06 04:37:29] It's not a bug – it's an undocumented feature. - Anonymous
