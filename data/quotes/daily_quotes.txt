@@ -1860,3 +1860,4 @@
 [2026-09-08 00:11:28] The best way to predict the future is to implement it. - Alan Kay
 [2026-09-08 04:34:15] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-09-08 05:46:00] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-09-08 11:11:37] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
